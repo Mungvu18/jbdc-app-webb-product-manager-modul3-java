@@ -1,0 +1,10 @@
+service/IProductService.java
+ service.IProductService
+service/IGenerialService.java
+ service.IGenerialService
+model/Product.java
+ model.Product
+controller/ProductServlet.java
+ controller.ProductServlet
+service/ProductService.java
+ service.ProductService
